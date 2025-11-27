@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsumi-yoshikawa&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsumi-yoshikawa&show_icons=true&rank_icon=percentile&card_width=490)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats-blue-three-92.vercel.app/api?username=tatsumi-yoshikawa&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-xi-gold.vercel.app?user=tatsumi-yoshikawa&short_numbers=true&card_width=400&card_height=200)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tatsumi-yoshikawa&short_numbers=true&card_width=495&card_height=195)](https://git.io/streak-stats)
 
