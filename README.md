@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tatsumi-yoshikawa&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsumi-yoshikawa&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tatsumi-yoshikawa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumi-yoshikawa&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tatsumi-yoshikawa&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tatsumi-yoshikawa)](https://git.io/streak-stats)
